@@ -1,2 +1,2 @@
 # practiceGit
-It is used to practice git command
+It is used to practice git command .
